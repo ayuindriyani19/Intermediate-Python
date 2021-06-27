@@ -1,1 +1,1 @@
-# Intermediate-Python
+# Intermediate Python Course-Indonesia AI
